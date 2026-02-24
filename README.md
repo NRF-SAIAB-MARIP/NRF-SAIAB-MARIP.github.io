@@ -15,105 +15,43 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 -->
 <div align="center">
 <a href="https://nrf-saiab-marip.github.io/">Home</a> - 
-<a href="https://nrf-saiab-marip.github.io/Data-management/">Data management</a> - 
-<a href="https://nrf-saiab-marip.github.io/Data-management/">Data storage</a> - 
-<a href="https://nrf-saiab-marip.github.io/Data-management/">Data analysis</a> - 
-<a href="https://github.com/NRF-SAIAB-MARIP/NRF-SAIAB-MARIP.github.io/blob/8e2926f930f74cb2c400718b65b3329b13eaf4e5/README.md/">Github</a>
+<a href="https://saiab.ac.za/platforms/marine-remote-imagery-platform-mar-ip/">About</a> - 
+<a href="https://nrf-saiab-marip.github.io/Data-management/">SOPs & Resources</a> - 
+<a href="https://nrf-saiab-marip.github.io/Data-management/">Downloads</a> - 
+<a href="https://nrf-saiab-marip.github.io/Data-management/">Contact</a> - 
 </div>
-
-## Navigation
-1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
-2. [Functionality](https://nrf-saiab-marip.github.io/#functionality)
-3. [Transformation & Capacity Development](https://nrf-saiab-marip.github.io/#transformation--capacity-development)
-4. [Users](https://nrf-saiab-marip.github.io/#users)
-5. [Useful code](https://nrf-saiab-marip.github.io/#useful-code)
-6. [Future](https://nrf-saiab-marip.github.io/#future)
-7. [Funders](https://nrf-saiab-marip.github.io/#funders)
 
 ***
 
-## Socio-economic implications
+The Marine Remote Imagery Platform (MaRIP) is Africa's largest and most comprehensive underwater visual research platform, hosted at the South African Institute for Aquatic Biodiversity (SAIAB). MaRIP gives scientists the ability to conduct ecological research across South Africa's continental shelf and into the deep sea, from the shallow subtidal to depths exceeding 1000 m.
 
-## Functionality
-Largest and most comprehensive underwater visual platform in Africa
-Remotely operated vehicles
-Baited remote underwater stereo-video systems
-Diver-operated camera systems
-Drop cameras
-Lander
-Visual access to previously unseen ecosystems
-Data management for Western Indian Ocean footage
-Innovation and development of new applications and equipment
-    
-- [Document1](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
+The platform supports data collection on demersal and benthic fish populations, as well as sessile and mobile invertebrate species, using a range of underwater camera systems including baited remote underwater stereo-video systems (BRUVs), remotely operated vehicles (ROVs), diver-operated cameras, drop cameras, and deep-water baited landers.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+# Research Focus
 
-## Transformation & Capacity Development
-Extensive postgraduate student use of resources
-Developing a transformed cohort of next-generation marine technicians
-Annual Summer School initiative
+MaRIP's primary research focus is the ecology and population structure of fish and invertebrate communities across South Africa's shelf and slope environments. BRUVs data is used to monitor demersal fish that are heavily targeted by recreational and commercial fisheries, assess the effectiveness of Marine Protected Areas, and provide scientific evidence for fisheries regulations and policy. The platform also contributes to national habitat mapping initiatives, with data feeding into South Africa's marine ecosystem type classification — a foundational layer for ocean space management and Blue Economy planning.
 
-![bruvs](/assets/img/bruvs_infographic.png)
+<p>
+  <img src="assets/img/dsi_logo.png" width="32%">
+  <img src="assets/img/dsi_logo.png" width="32%">
+  <img src="assets/img/dsi_logo.png" width="32%">
+</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+# Training & Capacity Development
 
-## Users
-Over 100 students and researchers from 39 national and international organisations
+Training is central to MaRIP's mandate. The platform has supported over 100 students and researchers from 39 institutions across South Africa and internationally, and runs an annual Summer School for emerging marine scientists. The platform regularly hosts workshops and training events that bring together researchers and managers from across the region to standardise methods and strengthen the contribution of visual survey data to marine management and policy.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p>
+  <img src="assets/img/dsi_logo.png" width="32%">
+  <img src="assets/img/dsi_logo.png" width="32%">
+  <img src="assets/img/dsi_logo.png" width="32%">
+</p>
 
-## Users
+# Working Group Resources
 
-Over 100 students and researchers from 39 national and international organisations
+This site hosts the SOPs, data management guidelines, and template folder systems used across MaRIP projects. If you are being onboarded or setting up a project, start with the SOPs & Resources page.
+
+# Funders & Partners
+MaRIP is funded by DSTI, NRF-SAIAB, and SMCRI.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Useful code
-
-<details>
-<summary>Code a</summary>
-<pre>
-    {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-</pre>
-</details>
-
-<details>
-<summary>Code b</summary>
-<pre>
-    {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-</pre>
-</details>
-
-<details>
-<summary>Code c</summary>
-<pre>
-    {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-</pre>
-</details>
-
-## Future
-
-1. Extension of depth range capabilities
-2. Artificial intelligence applications in footage analysis 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Funders
-DSI, NRF-SAIAB, SMCRI
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<img src="/assets/img/Footer.png" alt="Footer" title="footer" align="center"/>
