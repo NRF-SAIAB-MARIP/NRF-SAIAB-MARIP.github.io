@@ -11,6 +11,9 @@
 </div>
 
 ***
+<p>
+  <img src="assets/img/NetworkMap.png" width="100%" style="object-fit: cover;">
+</p>
 
 [View SA BRUVs Network Map](assets/docs/26-02_sa_bruvs_network_map.html)
 
@@ -18,7 +21,6 @@
 
 The platform supports data collection on demersal and benthic fish populations, as well as sessile and mobile invertebrate species, using a range of underwater camera systems including baited remote underwater stereo-video systems (BRUVs), remotely operated vehicles (ROVs), diver-operated cameras, drop cameras, and deep-water baited landers.
 
-<iframe src="assets/docs/26-02_sa_bruvs_network_map.html" width="100%" height="800px" style="border:none;"></iframe>
 
 # Research Focus
 
