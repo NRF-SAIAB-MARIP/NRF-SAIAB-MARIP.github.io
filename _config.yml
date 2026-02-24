@@ -3,9 +3,4 @@ name: NRF-SAIAB-MARIP
 title: null
 #description: text below image
 #show_downloads: true
-<<<<<<< HEAD
-theme: jekyll-theme-minimal
-=======
-theme: jekyll-theme-minimal
-
->>>>>>> 36929340bbc1ef1343e9553282c63b1343846ff6
+#theme: jekyll-theme-minimal
