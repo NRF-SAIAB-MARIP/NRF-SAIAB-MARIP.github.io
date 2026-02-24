@@ -11,16 +11,10 @@
 </div>
 
 ***
-<p>
-  <img src="assets/img/NetworkMap.png" width="100%" style="object-fit: cover;">
-</p>
-
-[View SA BRUVs Network Map](assets/docs/26-02_sa_bruvs_network_map.html)
 
 <b>The Marine Remote Imagery Platform (MaRIP)</b> is Africa's largest and most comprehensive underwater visual research platform, hosted at the South African Institute for Aquatic Biodiversity (NRF-SAIAB). MaRIP gives scientists the ability to conduct ecological research across South Africa's continental shelf and into the deep sea, from the shallow subtidal to depths exceeding 1000 m.
 
 The platform supports data collection on demersal and benthic fish populations, as well as sessile and mobile invertebrate species, using a range of underwater camera systems including baited remote underwater stereo-video systems (BRUVs), remotely operated vehicles (ROVs), diver-operated cameras, drop cameras, and deep-water baited landers.
-
 
 # Research Focus
 
@@ -45,6 +39,13 @@ Training is central to MaRIP's mandate. The platform has supported over 100 stud
 # Working Group Resources
 
 This site hosts the SOPs, data management guidelines, and template folder systems used across MaRIP projects. If you are being onboarded or setting up a project, start with the SOPs & Resources page.
+
+<a href="https://nrf-saiab-marip.github.io/assets/docs/26-02_sa_bruvs_network_map.html" target="_blank">
+  <img src="assets/img/NetworkMap.png" width="100%">
+</a>
+
+<a href="https://nrf-saiab-marip.github.io/assets/docs/26-02_sa_bruvs_network_map.html" target="_blank"> View Interactive SA BRUVs Network Map</a>
+
 
 # Funders & Partners
 MaRIP is funded by DSTI, NRF-SAIAB, and SMCRI.
