@@ -18,6 +18,8 @@
 
 The platform supports data collection on demersal and benthic fish populations, as well as sessile and mobile invertebrate species, using a range of underwater camera systems including baited remote underwater stereo-video systems (BRUVs), remotely operated vehicles (ROVs), diver-operated cameras, drop cameras, and deep-water baited landers.
 
+<iframe src="assets/docs/26-02_sa_bruvs_network_map.html" width="100%" height="800px" style="border:none;"></iframe>
+
 # Research Focus
 
 MaRIP's primary research focus is the ecology and population structure of fish and invertebrate communities across South Africa's shelf and slope environments. BRUVs data is used to monitor demersal fish that are heavily targeted by recreational and commercial fisheries, assess the effectiveness of Marine Protected Areas, and provide scientific evidence for fisheries regulations and policy. The platform also contributes to national habitat mapping initiatives, with data feeding into South Africa's marine ecosystem type classification - a foundational layer for ocean space management and Blue Economy planning.
