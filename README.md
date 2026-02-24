@@ -2,15 +2,6 @@
 
 ![Mar-RIP](/assets/img/MARIP.png)
 
-<!-- <a href="https://aimeos.org/">
-    <img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" title="SAIAB" align="left" height="75" />
-</a>
-
- <h1 align="left">Marine Remote Imagery Platform (MARIP) </h1>
-
-![Mar-RIP no text](/assets/img/Mar-RIP_no_text.png)
-
--->
 <div align="center">
 <a href="https://nrf-saiab-marip.github.io/">Home</a> - 
 <a href="https://saiab.ac.za/platforms/marine-remote-imagery-platform-mar-ip/" target="_blank">About</a> -
@@ -20,6 +11,8 @@
 </div>
 
 ***
+
+<iframe src="assets/docs/26-02_sa_bruvs_network_map.html" width="100%" height="500px" style="border:none;"></iframe>
 
 <b>The Marine Remote Imagery Platform (MaRIP)</b> is Africa's largest and most comprehensive underwater visual research platform, hosted at the South African Institute for Aquatic Biodiversity (NRF-SAIAB). MaRIP gives scientists the ability to conduct ecological research across South Africa's continental shelf and into the deep sea, from the shallow subtidal to depths exceeding 1000 m.
 
