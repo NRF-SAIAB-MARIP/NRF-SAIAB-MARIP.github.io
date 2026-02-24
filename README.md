@@ -12,8 +12,6 @@
 
 ***
 
-<iframe src="assets/docs/26-02_sa_bruvs_network_map.html" width="100%" height="500px" style="border:none;"></iframe>
-
 [View SA BRUVs Network Map](assets/docs/26-02_sa_bruvs_network_map.html)
 
 <b>The Marine Remote Imagery Platform (MaRIP)</b> is Africa's largest and most comprehensive underwater visual research platform, hosted at the South African Institute for Aquatic Biodiversity (NRF-SAIAB). MaRIP gives scientists the ability to conduct ecological research across South Africa's continental shelf and into the deep sea, from the shallow subtidal to depths exceeding 1000 m.
