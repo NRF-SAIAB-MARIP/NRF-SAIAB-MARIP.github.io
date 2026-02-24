@@ -8,8 +8,6 @@
 
  <h1 align="left">Marine Remote Imagery Platform (MARIP) </h1>
 
-The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity to conduct ecological research on benthic biota across the continental shelf of South Africa, from the shallow subtidal to depths of 250 m.
-
 ![Mar-RIP no text](/assets/img/Mar-RIP_no_text.png)
 
 -->
@@ -23,7 +21,7 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 
 ***
 
-The Marine Remote Imagery Platform (MaRIP) is Africa's largest and most comprehensive underwater visual research platform, hosted at the South African Institute for Aquatic Biodiversity (SAIAB). MaRIP gives scientists the ability to conduct ecological research across South Africa's continental shelf and into the deep sea, from the shallow subtidal to depths exceeding 1000 m.
+<b>The Marine Remote Imagery Platform (MaRIP)</b> is Africa's largest and most comprehensive underwater visual research platform, hosted at the South African Institute for Aquatic Biodiversity (NRF-SAIAB). MaRIP gives scientists the ability to conduct ecological research across South Africa's continental shelf and into the deep sea, from the shallow subtidal to depths exceeding 1000 m.
 
 The platform supports data collection on demersal and benthic fish populations, as well as sessile and mobile invertebrate species, using a range of underwater camera systems including baited remote underwater stereo-video systems (BRUVs), remotely operated vehicles (ROVs), diver-operated cameras, drop cameras, and deep-water baited landers.
 
