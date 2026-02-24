@@ -30,9 +30,9 @@ The platform supports data collection on demersal and benthic fish populations, 
 MaRIP's primary research focus is the ecology and population structure of fish and invertebrate communities across South Africa's shelf and slope environments. BRUVs data is used to monitor demersal fish that are heavily targeted by recreational and commercial fisheries, assess the effectiveness of Marine Protected Areas, and provide scientific evidence for fisheries regulations and policy. The platform also contributes to national habitat mapping initiatives, with data feeding into South Africa's marine ecosystem type classification — a foundational layer for ocean space management and Blue Economy planning.
 
 <p>
-  <img src="assets/img/dsi_logo.png" width="32%">
-  <img src="assets/img/dsi_logo.png" width="32%">
-  <img src="assets/img/dsi_logo.png" width="32%">
+  <img src="assets/img/StereoBruvs1.png" width="32%" height="250px" style="object-fit: cover;">
+  <img src="assets/img/StereoLanders3.jpg" width="32%" height="250px" style="object-fit: cover;">
+  <img src="assets/img/StereoLanders4.jpg" width="32%" height="250px" style="object-fit: cover;">
 </p>
 
 # Training & Capacity Development
@@ -40,9 +40,9 @@ MaRIP's primary research focus is the ecology and population structure of fish a
 Training is central to MaRIP's mandate. The platform has supported over 100 students and researchers from 39 institutions across South Africa and internationally, and runs an annual Summer School for emerging marine scientists. The platform regularly hosts workshops and training events that bring together researchers and managers from across the region to standardise methods and strengthen the contribution of visual survey data to marine management and policy.
 
 <p>
-  <img src="assets/img/dsi_logo.png" width="32%">
-  <img src="assets/img/dsi_logo.png" width="32%">
-  <img src="assets/img/dsi_logo.png" width="32%">
+  <img src="assets/img/StereoLanders2.jpg" width="32%" height="250px" style="object-fit: cover;">
+  <img src="assets/img/Training2.jpg" width="32%" height="250px" style="object-fit: cover;">
+  <img src="assets/img/Training1.jpg" width="32%" height="250px" style="object-fit: cover;">
 </p>
 
 # Working Group Resources
@@ -51,5 +51,9 @@ This site hosts the SOPs, data management guidelines, and template folder system
 
 # Funders & Partners
 MaRIP is funded by DSTI, NRF-SAIAB, and SMCRI.
+
+<p align="center">
+  <img src="assets/img/Footer.png" width="50%">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
