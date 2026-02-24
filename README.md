@@ -10,15 +10,13 @@
 
 ![Mar-RIP no text](/assets/img/Mar-RIP_no_text.png)
 
-
-
 -->
 <div align="center">
 <a href="https://nrf-saiab-marip.github.io/">Home</a> - 
 <a href="https://saiab.ac.za/platforms/marine-remote-imagery-platform-mar-ip/">About</a> - 
 <a href="https://nrf-saiab-marip.github.io/Data-management/">SOPs & Resources</a> - 
 <a href="https://nrf-saiab-marip.github.io/Data-management/">Downloads</a> - 
-<a href="https://nrf-saiab-marip.github.io/Data-management/">Contact</a> - 
+<a href="mailto:atf.bernard@saiab.nrf.ac.za?cc=e.heyns-veale@saiab.nrf.ac.za,a.vanwyk@saiab.nrf.ac.za&subject=MARIP%20Website%20Inquiry">Contact</a>
 </div>
 
 ***
@@ -29,7 +27,7 @@ The platform supports data collection on demersal and benthic fish populations, 
 
 # Research Focus
 
-MaRIP's primary research focus is the ecology and population structure of fish and invertebrate communities across South Africa's shelf and slope environments. BRUVs data is used to monitor demersal fish that are heavily targeted by recreational and commercial fisheries, assess the effectiveness of Marine Protected Areas, and provide scientific evidence for fisheries regulations and policy. The platform also contributes to national habitat mapping initiatives, with data feeding into South Africa's marine ecosystem type classification — a foundational layer for ocean space management and Blue Economy planning.
+MaRIP's primary research focus is the ecology and population structure of fish and invertebrate communities across South Africa's shelf and slope environments. BRUVs data is used to monitor demersal fish that are heavily targeted by recreational and commercial fisheries, assess the effectiveness of Marine Protected Areas, and provide scientific evidence for fisheries regulations and policy. The platform also contributes to national habitat mapping initiatives, with data feeding into South Africa's marine ecosystem type classification - a foundational layer for ocean space management and Blue Economy planning.
 
 <p>
   <img src="assets/img/StereoBruvs1.png" width="32%" height="250px" style="object-fit: cover;">
