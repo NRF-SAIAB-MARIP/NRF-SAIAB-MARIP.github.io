@@ -1,9 +1,3 @@
-<style>
-  section p, section li {
-    text-align: justify;
-  }
-</style>
-
 <a name="readme-top"></a>
 
 ![Mar-RIP](/assets/img/MARIP.png)
