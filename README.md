@@ -30,11 +30,13 @@ MaRIP's primary research focus is the ecology and population structure of fish a
 
 Training is central to MaRIP's mandate. The platform has supported over 100 students and researchers from 39 institutions across South Africa and internationally, and runs an annual Summer School for emerging marine scientists. The platform regularly hosts workshops and training events that bring together researchers and managers from across the region to standardise methods and strengthen the contribution of visual survey data to marine management and policy.
 
+<!--
 <p>
   <img src="assets/img/StereoLanders2.jpg" width="32%" height="250px" style="object-fit: cover;">
   <img src="assets/img/Training2.jpg" width="32%" height="250px" style="object-fit: cover;">
   <img src="assets/img/Training1.jpg" width="32%" height="250px" style="object-fit: cover;">
 </p>
+-->
 
 # Working Group Resources
 
