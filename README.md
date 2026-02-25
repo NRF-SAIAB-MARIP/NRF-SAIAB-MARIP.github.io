@@ -54,11 +54,7 @@ This site hosts the SOPs, data management guidelines, and template folder system
 
 # Developers
 
-| Role | Name |
-|------|------|
-| Author, maintainer | Angus van Wyk |
-| Author | Elodie Heyns-Veale |
-| Author | Anthony Bernard |
+**Author & maintainer:** Angus van Wyk,  **Author:** Elodie Heyns-Veale,  **Author:** Anthony Bernard
 
 # Funders & Partners
 MaRIP is funded by DSTI, NRF-SAIAB, and SMCRI.
