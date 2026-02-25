@@ -20,7 +20,7 @@ The platform supports data collection on demersal and benthic fish populations, 
 
 MaRIP's primary research focus is the ecology and population structure of fish and invertebrate communities across South Africa's shelf and slope environments. BRUVs data is used to monitor demersal fish that are heavily targeted by recreational and commercial fisheries, assess the effectiveness of Marine Protected Areas, and provide scientific evidence for fisheries regulations and policy. The platform also contributes to national habitat mapping initiatives, with data feeding into South Africa's marine ecosystem type classification - a foundational layer for ocean space management and Blue Economy planning.
 
-<p>
+<p align="center">
   <img src="assets/img/StereoBruvs1.png" width="32%" height="250px" style="object-fit: cover;">
   <img src="assets/img/StereoLanders3.jpg" width="32%" height="250px" style="object-fit: cover;">
   <img src="assets/img/StereoLanders4.jpg" width="32%" height="250px" style="object-fit: cover;">
