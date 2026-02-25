@@ -48,6 +48,13 @@ This site hosts the SOPs, data management guidelines, and template folder system
 
 <a href="https://nrf-saiab-marip.github.io/assets/docs/26-02_sa_bruvs_network_map.html" target="_blank"> View Interactive SA BRUVs Network Map</a>
 
+# Developers
+
+| Role | Name |
+|------|------|
+| Author, maintainer | Angus van Wyk |
+| Author | Elodie Heyns-Veale |
+| Author | Anthony Bernard |
 
 # Funders & Partners
 MaRIP is funded by DSTI, NRF-SAIAB, and SMCRI.
