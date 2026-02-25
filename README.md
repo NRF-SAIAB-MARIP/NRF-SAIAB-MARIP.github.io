@@ -41,13 +41,16 @@ Training is central to MaRIP's mandate. The platform has supported over 100 stud
 
 # Working Group Resources
 
-This site hosts the SOPs, data management guidelines, and template folder systems used across MaRIP projects. If you are being onboarded or setting up a project, start with the SOPs & Resources page.
+This site hosts the SOPs, data management guidelines, and template folder systems used across MaRIP projects. If you are being onboarded or setting up a project, start with the <a href="https://nrf-saiab-marip.github.io/SOPs-Resources/">SOPs & Resources page</a>
 
+
+<!--
 <a href="https://nrf-saiab-marip.github.io/assets/docs/26-02_sa_bruvs_network_map.html" target="_blank">
   <img src="assets/img/NetworkMap.png" width="100%">
 </a>
 
 <a href="https://nrf-saiab-marip.github.io/assets/docs/26-02_sa_bruvs_network_map.html" target="_blank"> View Interactive SA BRUVs Network Map</a>
+-->
 
 # Developers
 
