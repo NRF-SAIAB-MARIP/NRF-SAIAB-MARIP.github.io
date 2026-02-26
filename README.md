@@ -1,3 +1,4 @@
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HRZ20D7BNQ"></script>
 <script>
@@ -5,8 +6,15 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-HRZ20D7BNQ');
+  const urlParams = new URLSearchParams(window.location.search);
+  const isDebug = urlParams.get('debug') === 'true';
+
+  gtag('config', 'G-HRZ20D7BNQ', {
+    ...(isDebug && { debug_mode: true })
+  });
 </script>
+
+
 
 <a name="readme-top"></a>
 
