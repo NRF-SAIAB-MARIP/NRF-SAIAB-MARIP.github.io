@@ -45,7 +45,7 @@ This site hosts the SOPs, data management guidelines, and template folder system
 
 
 <!--
-<a href="https://nrf-saiab-marip.github.io/assets/docs/26-02_sa_bruvs_network_map.html" target="_blank">
+<a href="https://nrf-saiab-marip.github.io/SOPs-Resources/assets/docs/26-02_sa_bruvs_network_map.html target="_blank">
   <img src="assets/img/NetworkMap.png" width="100%">
 </a>
 
